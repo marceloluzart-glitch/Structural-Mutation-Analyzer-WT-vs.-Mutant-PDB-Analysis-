@@ -1,12 +1,12 @@
 ## 📊 Results & Interpretation / Resultados e Interpretação
 
 * **[EN]** The structural analysis pipeline successfully computed the following quantitative metrics comparing the Wild-Type (WT) and Mutant (C1099S) protein models:
-  * **Global RMSD:** $13.727\text{ Å}$ — Indicates a significant overall conformational shift between the structures.
-  * **Hotspot Distance (Residue 100):** $4.873\text{ Å}$ — Measures the direct positional displacement at the mutation site.
-  * **Local RMSD (Sliding Window):** $1.567\text{ Å}$ — Demonstrates that the immediate local neighborhood around the mutation preserves its backbone architecture despite the local perturbation.
+  * **Global RMSD:** 13.727 Å - Indicates a significant overall conformational shift between the structures.
+  * **Hotspot Distance (Residue 100):** 4.873 Å - Measures the direct positional displacement at the mutation site.
+  * **Local RMSD (Sliding Window):** 1.567 Å - Demonstrates that the immediate local neighborhood around the mutation preserves its backbone architecture despite the local perturbation.
 
 * **[PT]** O pipeline de análise estrutural computou com sucesso as seguintes métricas quantitativas comparando os modelos proteicos Selvagem (WT) e Mutante (C1099S):
-  * **RMSD Global:** $13.727\text{ Å}$ — Indica uma mudança conformacional global significativa entre as estruturas.
-  * **Distância do Hotspot (Resíduo 100):** $4.873\text{ Å}$ — Mede o desvio posicional direto no sítio da mutação.
-  * **RMSD Local (Janela Deslizante):** $1.567\text{ Å}$ — Demonstra que a vizinhança local imediata ao redor da mutação preserva sua arquitetura de cadeia principal apesar da perturbação pontual.
+  * **RMSD Global:** 13.727  Å - Indica uma mudança conformacional global significativa entre as estruturas.
+  * **Distância do Hotspot (Resíduo 100):** 4.873  Å - Mede o desvio posicional direto no sítio da mutação.
+  * **RMSD Local (Janela Deslizante):** 1.567 Å - Demonstra que a vizinhança local imediata ao redor da mutação preserva sua arquitetura de cadeia principal apesar da perturbação pontual.
 
